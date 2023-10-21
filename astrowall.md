@@ -18,7 +18,7 @@ Below is a summary of the permissions required by the application.
 | `android.permission.WRITE_EXTERNAL_STORAGE` | Required to download Astro Wall images to the device's download folder. This permission is requested when you access the download image option from the main screen on devices targeting API 32 and below. For devices running Android 33 and above, this permission does not need to be explicitly granted by the user. |
  <hr style="border:1px solid gray">
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub.
 
 Yours sincerely, <br>
 Marius Goubert <br>
